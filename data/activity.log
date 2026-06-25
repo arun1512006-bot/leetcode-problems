@@ -1,3 +1,4 @@
 [2026-06-25T09:52:45.000Z] fix: handle null pointer check in payload serializer (#1/12)
 [2026-06-25T10:49:11.000Z] style: enforce consistent lint formatting across modules (#2/12)
 [2026-06-25T11:47:11.000Z] feat: optimize event bus telemetry and trace logging (#3/12)
+[2026-06-25T12:36:06.000Z] docs: add visual sequence diagrams for authentication flow (#4/12)
