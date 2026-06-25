@@ -5,3 +5,4 @@
 [2026-06-25T13:35:58.000Z] test: add unit coverage for edge-case parser states (#5/12)
 [2026-06-25T14:26:42.000Z] chore: clean up deprecated helper functions (#6/12)
 [2026-06-25T15:25:11.000Z] refactor: streamline data pipeline transformation logic (#7/12)
+[2026-06-25T16:22:09.000Z] refactor: decouple configuration loader from runtime core (#8/12)
