@@ -7,3 +7,4 @@
 [2026-06-25T15:25:11.000Z] refactor: streamline data pipeline transformation logic (#7/12)
 [2026-06-25T16:22:09.000Z] refactor: decouple configuration loader from runtime core (#8/12)
 [2026-06-25T17:15:15.000Z] chore: bump minor dependency patches and lockfile (#9/12)
+[2026-06-25T18:06:59.000Z] docs: add visual sequence diagrams for authentication flow (#10/12)
