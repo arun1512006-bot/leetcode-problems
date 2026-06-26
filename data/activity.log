@@ -12,3 +12,4 @@
 [2026-06-25T20:03:39.000Z] style: enforce consistent lint formatting across modules (#12/12)
 [2026-06-26T09:48:40.000Z] fix: prevent race condition in async buffer queue (#1/13)
 [2026-06-26T10:43:27.000Z] chore: bump minor dependency patches and lockfile (#2/13)
+[2026-06-26T11:31:09.000Z] docs: update API contract and endpoint specifications (#3/13)
