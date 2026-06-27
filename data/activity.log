@@ -24,3 +24,4 @@
 [2026-06-26T19:14:35.000Z] test: expand integration suite for webhook deliveries (#12/13)
 [2026-06-26T20:02:57.000Z] perf: debounce high-frequency state update dispatchers (#13/13)
 [2026-06-27T09:56:05.000Z] chore: clean up deprecated helper functions (#1/12)
+[2026-06-27T10:50:56.000Z] feat: optimize event bus telemetry and trace logging (#2/12)
