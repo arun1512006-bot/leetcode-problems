@@ -27,3 +27,4 @@
 [2026-06-27T10:50:56.000Z] feat: optimize event bus telemetry and trace logging (#2/12)
 [2026-06-27T11:46:51.000Z] test: expand integration suite for webhook deliveries (#3/12)
 [2026-06-27T12:38:53.000Z] test: add unit coverage for edge-case parser states (#4/12)
+[2026-06-27T13:32:39.000Z] chore: clean up deprecated helper functions (#5/12)
