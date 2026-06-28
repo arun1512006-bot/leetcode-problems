@@ -40,3 +40,4 @@
 [2026-06-28T11:34:07.000Z] feat: optimize event bus telemetry and trace logging (#3/13)
 [2026-06-28T12:21:19.000Z] docs: update API contract and endpoint specifications (#4/13)
 [2026-06-28T13:15:03.000Z] feat: optimize event bus telemetry and trace logging (#5/13)
+[2026-06-28T14:09:42.000Z] fix: resolve timezone offset discrepancy in scheduler (#6/13)
