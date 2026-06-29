@@ -48,3 +48,4 @@
 [2026-06-28T18:23:20.000Z] chore: clean up deprecated helper functions (#11/13)
 [2026-06-28T19:09:22.000Z] fix: resolve timezone offset discrepancy in scheduler (#12/13)
 [2026-06-28T19:59:45.000Z] style: enforce consistent lint formatting across modules (#13/13)
+[2026-06-29T09:56:38.000Z] fix: graceful fallback on upstream rate limiting (#1/11)
