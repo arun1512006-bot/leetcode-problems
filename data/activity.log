@@ -51,3 +51,4 @@
 [2026-06-29T09:56:38.000Z] fix: graceful fallback on upstream rate limiting (#1/11)
 [2026-06-29T11:00:28.000Z] refactor: extract reusable validator utility methods (#2/11)
 [2026-06-29T11:59:39.000Z] test: add unit coverage for edge-case parser states (#3/11)
+[2026-06-29T12:58:43.000Z] docs: add visual sequence diagrams for authentication flow (#4/11)
