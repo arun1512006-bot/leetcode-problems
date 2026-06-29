@@ -52,3 +52,4 @@
 [2026-06-29T11:00:28.000Z] refactor: extract reusable validator utility methods (#2/11)
 [2026-06-29T11:59:39.000Z] test: add unit coverage for edge-case parser states (#3/11)
 [2026-06-29T12:58:43.000Z] docs: add visual sequence diagrams for authentication flow (#4/11)
+[2026-06-29T14:02:30.000Z] chore: clean up deprecated helper functions (#5/11)
