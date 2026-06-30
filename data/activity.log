@@ -64,3 +64,4 @@
 [2026-06-30T11:47:29.000Z] fix: handle null pointer check in payload serializer (#3/12)
 [2026-06-30T12:39:37.000Z] test: add unit coverage for edge-case parser states (#4/12)
 [2026-06-30T13:36:51.000Z] docs: add visual sequence diagrams for authentication flow (#5/12)
+[2026-06-30T14:32:57.000Z] chore: clean up deprecated helper functions (#6/12)
