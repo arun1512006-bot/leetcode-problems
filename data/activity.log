@@ -74,3 +74,4 @@
 [2026-07-01T10:00:29.000Z] docs: add visual sequence diagrams for authentication flow (#1/11)
 [2026-07-01T11:02:35.000Z] refactor: streamline data pipeline transformation logic (#2/11)
 [2026-07-01T11:58:58.000Z] chore: clean up deprecated helper functions (#3/11)
+[2026-07-01T13:01:22.000Z] refactor: decouple configuration loader from runtime core (#4/11)
