@@ -73,3 +73,4 @@
 [2026-06-30T19:58:08.000Z] refactor: modularize repository sync orchestrator (#12/12)
 [2026-07-01T10:00:29.000Z] docs: add visual sequence diagrams for authentication flow (#1/11)
 [2026-07-01T11:02:35.000Z] refactor: streamline data pipeline transformation logic (#2/11)
+[2026-07-01T11:58:58.000Z] chore: clean up deprecated helper functions (#3/11)
