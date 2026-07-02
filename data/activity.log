@@ -94,3 +94,4 @@
 [2026-07-02T16:59:09.000Z] docs: update API contract and endpoint specifications (#10/14)
 [2026-07-02T17:44:27.000Z] perf: debounce high-frequency state update dispatchers (#11/14)
 [2026-07-02T18:34:49.000Z] fix: handle null pointer check in payload serializer (#12/14)
+[2026-07-02T19:25:53.000Z] fix: graceful fallback on upstream rate limiting (#13/14)
