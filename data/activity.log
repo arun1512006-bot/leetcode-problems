@@ -93,3 +93,4 @@
 [2026-07-02T16:15:20.000Z] feat: optimize event bus telemetry and trace logging (#9/14)
 [2026-07-02T16:59:09.000Z] docs: update API contract and endpoint specifications (#10/14)
 [2026-07-02T17:44:27.000Z] perf: debounce high-frequency state update dispatchers (#11/14)
+[2026-07-02T18:34:49.000Z] fix: handle null pointer check in payload serializer (#12/14)
