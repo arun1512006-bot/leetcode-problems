@@ -100,3 +100,4 @@
 [2026-07-03T10:38:10.000Z] refactor: decouple configuration loader from runtime core (#2/14)
 [2026-07-03T11:25:05.000Z] chore: bump minor dependency patches and lockfile (#3/14)
 [2026-07-03T12:09:48.000Z] refactor: decouple configuration loader from runtime core (#4/14)
+[2026-07-03T13:01:42.000Z] feat: implement adaptive caching layer for remote sync (#5/14)
