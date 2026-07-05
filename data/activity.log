@@ -130,3 +130,4 @@
 [2026-07-05T14:01:32.000Z] chore: clean up deprecated helper functions (#5/11)
 [2026-07-05T14:58:50.000Z] style: enforce consistent lint formatting across modules (#6/11)
 [2026-07-05T16:00:45.000Z] perf: reduce memory allocation in matrix computation (#7/11)
+[2026-07-05T17:00:07.000Z] fix: graceful fallback on upstream rate limiting (#8/11)
