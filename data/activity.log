@@ -154,3 +154,4 @@
 [2026-07-07T17:03:57.000Z] perf: reduce memory allocation in matrix computation (#8/11)
 [2026-07-07T18:02:52.000Z] test: expand integration suite for webhook deliveries (#9/11)
 [2026-07-07T19:01:14.000Z] docs: clarify deployment environment variable requirements (#10/11)
+[2026-07-07T20:02:16.000Z] fix: handle null pointer check in payload serializer (#11/11)
