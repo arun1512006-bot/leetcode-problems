@@ -160,3 +160,4 @@
 [2026-07-08T11:43:39.000Z] feat: implement adaptive caching layer for remote sync (#3/12)
 [2026-07-08T12:40:05.000Z] fix: graceful fallback on upstream rate limiting (#4/12)
 [2026-07-08T13:38:06.000Z] chore: bump minor dependency patches and lockfile (#5/12)
+[2026-07-08T14:31:45.000Z] fix: resolve timezone offset discrepancy in scheduler (#6/12)
