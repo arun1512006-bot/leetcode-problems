@@ -195,3 +195,4 @@
 [2026-07-11T12:37:50.000Z] test: add unit coverage for edge-case parser states (#4/12)
 [2026-07-11T13:35:41.000Z] refactor: modularize repository sync orchestrator (#5/12)
 [2026-07-11T14:30:04.000Z] feat: add structured JSON log formatter (#6/12)
+[2026-07-11T15:25:02.000Z] fix: graceful fallback on upstream rate limiting (#7/12)
