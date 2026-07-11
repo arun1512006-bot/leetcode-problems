@@ -190,3 +190,4 @@
 [2026-07-10T19:08:28.000Z] feat: add structured JSON log formatter (#11/12)
 [2026-07-10T19:58:38.000Z] style: enforce consistent lint formatting across modules (#12/12)
 [2026-07-11T09:55:54.000Z] docs: clarify deployment environment variable requirements (#1/12)
+[2026-07-11T10:52:09.000Z] fix: handle null pointer check in payload serializer (#2/12)
