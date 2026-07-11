@@ -198,3 +198,4 @@
 [2026-07-11T15:25:02.000Z] fix: graceful fallback on upstream rate limiting (#7/12)
 [2026-07-11T16:20:36.000Z] docs: update API contract and endpoint specifications (#8/12)
 [2026-07-11T17:14:48.000Z] test: expand integration suite for webhook deliveries (#9/12)
+[2026-07-11T18:09:13.000Z] docs: update API contract and endpoint specifications (#10/12)
