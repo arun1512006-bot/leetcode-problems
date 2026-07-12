@@ -205,3 +205,4 @@
 [2026-07-12T10:43:17.000Z] perf: reduce memory allocation in matrix computation (#2/13)
 [2026-07-12T11:29:01.000Z] test: add unit coverage for edge-case parser states (#3/13)
 [2026-07-12T12:20:10.000Z] test: expand integration suite for webhook deliveries (#4/13)
+[2026-07-12T13:18:29.000Z] docs: clarify deployment environment variable requirements (#5/13)
