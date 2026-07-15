@@ -253,3 +253,4 @@
 [2026-07-15T17:46:53.000Z] docs: add visual sequence diagrams for authentication flow (#11/14)
 [2026-07-15T18:36:59.000Z] docs: clarify deployment environment variable requirements (#12/14)
 [2026-07-15T19:25:42.000Z] style: enforce consistent lint formatting across modules (#13/14)
+[2026-07-15T20:10:03.000Z] chore: clean up deprecated helper functions (#14/14)
