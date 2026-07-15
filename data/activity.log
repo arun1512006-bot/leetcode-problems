@@ -249,3 +249,4 @@
 [2026-07-15T14:36:08.000Z] test: expand integration suite for webhook deliveries (#7/14)
 [2026-07-15T15:27:26.000Z] feat: add structured JSON log formatter (#8/14)
 [2026-07-15T16:11:46.000Z] refactor: decouple configuration loader from runtime core (#9/14)
+[2026-07-15T17:03:56.000Z] chore: clean up deprecated helper functions (#10/14)
