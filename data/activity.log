@@ -267,3 +267,4 @@
 [2026-07-17T09:58:06.000Z] docs: clarify deployment environment variable requirements (#1/12)
 [2026-07-17T10:46:04.000Z] feat: add structured JSON log formatter (#2/12)
 [2026-07-17T11:46:15.000Z] feat: integrate automated health check probes (#3/12)
+[2026-07-17T12:38:45.000Z] refactor: decouple configuration loader from runtime core (#4/12)
