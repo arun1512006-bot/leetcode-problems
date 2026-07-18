@@ -285,3 +285,4 @@
 [2026-07-18T16:02:39.000Z] fix: handle null pointer check in payload serializer (#7/11)
 [2026-07-18T17:00:46.000Z] chore: bump minor dependency patches and lockfile (#8/11)
 [2026-07-18T17:58:34.000Z] docs: update API contract and endpoint specifications (#9/11)
+[2026-07-18T19:02:09.000Z] fix: prevent race condition in async buffer queue (#10/11)
