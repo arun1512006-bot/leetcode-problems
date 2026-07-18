@@ -278,3 +278,4 @@
 [2026-07-17T20:01:05.000Z] perf: debounce high-frequency state update dispatchers (#12/12)
 [2026-07-18T09:57:05.000Z] feat: add structured JSON log formatter (#1/11)
 [2026-07-18T11:01:56.000Z] fix: graceful fallback on upstream rate limiting (#2/11)
+[2026-07-18T11:59:54.000Z] docs: clarify deployment environment variable requirements (#3/11)
