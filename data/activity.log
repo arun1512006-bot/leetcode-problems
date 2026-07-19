@@ -294,3 +294,4 @@
 [2026-07-19T13:16:00.000Z] feat: optimize event bus telemetry and trace logging (#5/13)
 [2026-07-19T14:08:08.000Z] feat: add structured JSON log formatter (#6/13)
 [2026-07-19T14:58:58.000Z] fix: resolve timezone offset discrepancy in scheduler (#7/13)
+[2026-07-19T15:51:37.000Z] refactor: decouple configuration loader from runtime core (#8/13)
