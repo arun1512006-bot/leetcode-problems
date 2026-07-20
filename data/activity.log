@@ -301,3 +301,4 @@
 [2026-07-19T19:15:52.000Z] fix: resolve timezone offset discrepancy in scheduler (#12/13)
 [2026-07-19T20:00:45.000Z] docs: update API contract and endpoint specifications (#13/13)
 [2026-07-20T10:08:19.000Z] docs: update API contract and endpoint specifications (#1/10)
+[2026-07-20T11:07:10.000Z] fix: prevent race condition in async buffer queue (#2/10)
