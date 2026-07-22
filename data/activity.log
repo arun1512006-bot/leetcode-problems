@@ -327,3 +327,4 @@
 [2026-07-22T14:22:42.000Z] perf: debounce high-frequency state update dispatchers (#5/10)
 [2026-07-22T15:33:34.000Z] chore: clean up deprecated helper functions (#6/10)
 [2026-07-22T16:38:28.000Z] fix: resolve timezone offset discrepancy in scheduler (#7/10)
+[2026-07-22T17:36:00.000Z] fix: resolve timezone offset discrepancy in scheduler (#8/10)
