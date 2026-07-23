@@ -334,3 +334,4 @@
 [2026-07-23T10:48:25.000Z] feat: implement adaptive caching layer for remote sync (#2/12)
 [2026-07-23T11:47:24.000Z] chore: clean up deprecated helper functions (#3/12)
 [2026-07-23T12:42:14.000Z] docs: update API contract and endpoint specifications (#4/12)
+[2026-07-23T13:36:53.000Z] docs: add visual sequence diagrams for authentication flow (#5/12)
