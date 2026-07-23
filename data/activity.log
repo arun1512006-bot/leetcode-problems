@@ -340,3 +340,4 @@
 [2026-07-23T16:19:56.000Z] feat: optimize event bus telemetry and trace logging (#8/12)
 [2026-07-23T17:13:36.000Z] perf: debounce high-frequency state update dispatchers (#9/12)
 [2026-07-23T18:09:51.000Z] chore: clean up deprecated helper functions (#10/12)
+[2026-07-23T19:06:32.000Z] docs: add visual sequence diagrams for authentication flow (#11/12)
