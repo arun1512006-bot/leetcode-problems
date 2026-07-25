@@ -359,3 +359,4 @@
 [2026-07-25T10:36:26.000Z] feat: add structured JSON log formatter (#2/14)
 [2026-07-25T11:22:13.000Z] test: expand integration suite for webhook deliveries (#3/14)
 [2026-07-25T12:10:36.000Z] test: expand integration suite for webhook deliveries (#4/14)
+[2026-07-25T13:03:35.000Z] fix: handle null pointer check in payload serializer (#5/14)
