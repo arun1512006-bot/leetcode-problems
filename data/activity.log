@@ -379,3 +379,4 @@
 [2026-07-26T17:00:58.000Z] chore: clean up deprecated helper functions (#8/11)
 [2026-07-26T17:57:03.000Z] refactor: extract reusable validator utility methods (#9/11)
 [2026-07-26T18:58:09.000Z] fix: graceful fallback on upstream rate limiting (#10/11)
+[2026-07-26T20:01:56.000Z] feat: add structured JSON log formatter (#11/11)
