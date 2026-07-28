@@ -397,3 +397,4 @@
 [2026-07-28T11:33:15.000Z] test: add unit coverage for edge-case parser states (#3/13)
 [2026-07-28T12:26:16.000Z] feat: integrate automated health check probes (#4/13)
 [2026-07-28T13:16:36.000Z] chore: clean up deprecated helper functions (#5/13)
+[2026-07-28T14:05:09.000Z] docs: clarify deployment environment variable requirements (#6/13)
