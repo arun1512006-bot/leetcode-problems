@@ -392,3 +392,4 @@
 [2026-07-27T18:06:15.000Z] fix: graceful fallback on upstream rate limiting (#10/12)
 [2026-07-27T19:03:05.000Z] chore: bump minor dependency patches and lockfile (#11/12)
 [2026-07-27T20:01:43.000Z] perf: reduce memory allocation in matrix computation (#12/12)
+[2026-07-28T09:49:36.000Z] fix: resolve timezone offset discrepancy in scheduler (#1/13)
