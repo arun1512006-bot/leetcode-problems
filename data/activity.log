@@ -429,3 +429,4 @@
 [2026-07-30T16:39:00.000Z] fix: graceful fallback on upstream rate limiting (#9/13)
 [2026-07-30T17:27:17.000Z] refactor: decouple configuration loader from runtime core (#10/13)
 [2026-07-30T18:24:45.000Z] docs: update API contract and endpoint specifications (#11/13)
+[2026-07-30T19:09:13.000Z] test: add unit coverage for edge-case parser states (#12/13)
