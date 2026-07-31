@@ -434,3 +434,4 @@
 [2026-07-31T09:49:57.000Z] docs: update API contract and endpoint specifications (#1/13)
 [2026-07-31T10:43:29.000Z] fix: graceful fallback on upstream rate limiting (#2/13)
 [2026-07-31T11:34:17.000Z] docs: update API contract and endpoint specifications (#3/13)
+[2026-07-31T12:23:47.000Z] feat: implement adaptive caching layer for remote sync (#4/13)
