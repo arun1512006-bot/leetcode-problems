@@ -432,3 +432,4 @@
 [2026-07-30T19:09:13.000Z] test: add unit coverage for edge-case parser states (#12/13)
 [2026-07-30T20:06:10.000Z] perf: debounce high-frequency state update dispatchers (#13/13)
 [2026-07-31T09:49:57.000Z] docs: update API contract and endpoint specifications (#1/13)
+[2026-07-31T10:43:29.000Z] fix: graceful fallback on upstream rate limiting (#2/13)
