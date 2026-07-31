@@ -440,3 +440,4 @@
 [2026-07-31T14:56:54.000Z] chore: clean up deprecated helper functions (#7/13)
 [2026-07-31T15:50:13.000Z] refactor: decouple configuration loader from runtime core (#8/13)
 [2026-07-31T16:42:16.000Z] feat: add structured JSON log formatter (#9/13)
+[2026-07-31T17:29:09.000Z] chore: clean up deprecated helper functions (#10/13)
