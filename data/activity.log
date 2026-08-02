@@ -461,3 +461,4 @@
 [2026-08-02T11:47:18.000Z] fix: graceful fallback on upstream rate limiting (#3/12)
 [2026-08-02T12:37:42.000Z] fix: resolve timezone offset discrepancy in scheduler (#4/12)
 [2026-08-02T13:38:27.000Z] test: expand integration suite for webhook deliveries (#5/12)
+[2026-08-02T14:26:21.000Z] fix: prevent race condition in async buffer queue (#6/12)
