@@ -467,3 +467,4 @@
 [2026-08-02T17:15:41.000Z] refactor: modularize repository sync orchestrator (#9/12)
 [2026-08-02T18:13:08.000Z] perf: reduce memory allocation in matrix computation (#10/12)
 [2026-08-02T19:08:21.000Z] perf: reduce memory allocation in matrix computation (#11/12)
+[2026-08-02T20:00:21.000Z] fix: graceful fallback on upstream rate limiting (#12/12)
