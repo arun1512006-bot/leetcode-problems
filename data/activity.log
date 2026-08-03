@@ -470,3 +470,4 @@
 [2026-08-02T20:00:21.000Z] fix: graceful fallback on upstream rate limiting (#12/12)
 [2026-08-03T10:06:13.000Z] docs: add visual sequence diagrams for authentication flow (#1/10)
 [2026-08-03T11:08:01.000Z] fix: prevent race condition in async buffer queue (#2/10)
+[2026-08-03T12:15:32.000Z] fix: prevent race condition in async buffer queue (#3/10)
