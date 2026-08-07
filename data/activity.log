@@ -516,3 +516,4 @@
 [2026-08-07T09:51:26.000Z] perf: debounce high-frequency state update dispatchers (#1/13)
 [2026-08-07T10:44:37.000Z] chore: bump minor dependency patches and lockfile (#2/13)
 [2026-08-07T11:35:55.000Z] feat: optimize event bus telemetry and trace logging (#3/13)
+[2026-08-07T12:20:21.000Z] perf: debounce high-frequency state update dispatchers (#4/13)
