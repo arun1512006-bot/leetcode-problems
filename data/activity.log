@@ -528,3 +528,4 @@
 [2026-08-07T20:05:10.000Z] fix: resolve timezone offset discrepancy in scheduler (#13/13)
 [2026-08-08T10:07:35.000Z] fix: handle null pointer check in payload serializer (#1/10)
 [2026-08-08T11:07:38.000Z] docs: clarify deployment environment variable requirements (#2/10)
+[2026-08-08T12:18:01.000Z] docs: update API contract and endpoint specifications (#3/10)
