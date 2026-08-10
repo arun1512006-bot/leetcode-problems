@@ -76,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0401-binary-watch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
