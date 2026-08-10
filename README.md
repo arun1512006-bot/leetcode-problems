@@ -25,14 +25,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 ## Array
 |  |
 | ------- |
@@ -69,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1510-stone-game-iv) |
+## Depth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
