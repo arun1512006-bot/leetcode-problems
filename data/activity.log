@@ -563,3 +563,4 @@
 [2026-08-11T09:58:15.000Z] fix: prevent race condition in async buffer queue (#1/11)
 [2026-08-11T10:58:22.000Z] fix: prevent race condition in async buffer queue (#2/11)
 [2026-08-11T11:56:44.000Z] perf: index query key lookup table for O(1) retrieval (#3/11)
+[2026-08-11T12:59:28.000Z] feat: add structured JSON log formatter (#4/11)
