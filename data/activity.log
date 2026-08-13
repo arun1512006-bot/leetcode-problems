@@ -584,3 +584,4 @@
 [2026-08-12T19:03:35.000Z] fix: handle null pointer check in payload serializer (#11/12)
 [2026-08-12T19:59:45.000Z] docs: clarify deployment environment variable requirements (#12/12)
 [2026-08-13T09:52:48.000Z] fix: prevent race condition in async buffer queue (#1/12)
+[2026-08-13T10:46:53.000Z] docs: update API contract and endpoint specifications (#2/12)
