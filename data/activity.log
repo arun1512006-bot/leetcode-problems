@@ -597,3 +597,4 @@
 [2026-08-13T19:59:23.000Z] perf: debounce high-frequency state update dispatchers (#12/12)
 [2026-08-14T10:08:59.000Z] refactor: modularize repository sync orchestrator (#1/10)
 [2026-08-14T11:13:20.000Z] test: expand integration suite for webhook deliveries (#2/10)
+[2026-08-14T12:15:25.000Z] docs: add visual sequence diagrams for authentication flow (#3/10)
