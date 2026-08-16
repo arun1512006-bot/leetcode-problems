@@ -620,3 +620,4 @@
 [2026-08-15T20:01:50.000Z] refactor: modularize repository sync orchestrator (#13/13)
 [2026-08-16T09:53:22.000Z] feat: optimize event bus telemetry and trace logging (#1/12)
 [2026-08-16T10:49:48.000Z] docs: clarify deployment environment variable requirements (#2/12)
+[2026-08-16T11:48:20.000Z] fix: graceful fallback on upstream rate limiting (#3/12)
