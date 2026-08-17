@@ -635,3 +635,4 @@
 [2026-08-17T11:22:16.000Z] docs: clarify deployment environment variable requirements (#3/14)
 [2026-08-17T12:09:17.000Z] perf: reduce memory allocation in matrix computation (#4/14)
 [2026-08-17T13:03:29.000Z] chore: clean up deprecated helper functions (#5/14)
+[2026-08-17T13:46:59.000Z] docs: add visual sequence diagrams for authentication flow (#6/14)
