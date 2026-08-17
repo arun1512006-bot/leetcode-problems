@@ -642,3 +642,4 @@
 [2026-08-17T17:02:10.000Z] test: add unit coverage for edge-case parser states (#10/14)
 [2026-08-17T17:44:32.000Z] feat: add structured JSON log formatter (#11/14)
 [2026-08-17T18:35:04.000Z] docs: update API contract and endpoint specifications (#12/14)
+[2026-08-17T19:23:57.000Z] docs: clarify deployment environment variable requirements (#13/14)
