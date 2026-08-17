@@ -641,3 +641,4 @@
 [2026-08-17T16:13:06.000Z] test: expand integration suite for webhook deliveries (#9/14)
 [2026-08-17T17:02:10.000Z] test: add unit coverage for edge-case parser states (#10/14)
 [2026-08-17T17:44:32.000Z] feat: add structured JSON log formatter (#11/14)
+[2026-08-17T18:35:04.000Z] docs: update API contract and endpoint specifications (#12/14)
