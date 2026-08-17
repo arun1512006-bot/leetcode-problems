@@ -638,3 +638,4 @@
 [2026-08-17T13:46:59.000Z] docs: add visual sequence diagrams for authentication flow (#6/14)
 [2026-08-17T14:33:16.000Z] fix: graceful fallback on upstream rate limiting (#7/14)
 [2026-08-17T15:26:49.000Z] feat: add structured JSON log formatter (#8/14)
+[2026-08-17T16:13:06.000Z] test: expand integration suite for webhook deliveries (#9/14)
