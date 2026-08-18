@@ -656,3 +656,4 @@
 [2026-08-18T17:29:18.000Z] chore: clean up deprecated helper functions (#10/13)
 [2026-08-18T18:21:21.000Z] chore: bump minor dependency patches and lockfile (#11/13)
 [2026-08-18T19:08:14.000Z] feat: integrate automated health check probes (#12/13)
+[2026-08-18T20:05:39.000Z] docs: add visual sequence diagrams for authentication flow (#13/13)
