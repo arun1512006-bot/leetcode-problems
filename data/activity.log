@@ -651,3 +651,4 @@
 [2026-08-18T13:17:46.000Z] feat: integrate automated health check probes (#5/13)
 [2026-08-18T14:08:53.000Z] fix: prevent race condition in async buffer queue (#6/13)
 [2026-08-18T14:57:56.000Z] test: expand integration suite for webhook deliveries (#7/13)
+[2026-08-18T15:46:20.000Z] docs: clarify deployment environment variable requirements (#8/13)
