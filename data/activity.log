@@ -674,3 +674,4 @@
 [2026-08-20T10:39:39.000Z] chore: bump minor dependency patches and lockfile (#2/13)
 [2026-08-20T11:33:42.000Z] refactor: modularize repository sync orchestrator (#3/13)
 [2026-08-20T12:25:00.000Z] fix: graceful fallback on upstream rate limiting (#4/13)
+[2026-08-20T13:17:04.000Z] docs: add visual sequence diagrams for authentication flow (#5/13)
