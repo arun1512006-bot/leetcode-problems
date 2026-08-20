@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0131-palindrome-partitioning) |
+| [0338-counting-bits](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0338-counting-bits) |
 | [1140-stone-game-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arun1512006-bot/leetcode-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0401-binary-watch) |
 | [1386-cinema-seat-allocation](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 ## Hash Table
