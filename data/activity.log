@@ -680,3 +680,4 @@
 [2026-08-20T15:46:16.000Z] feat: optimize event bus telemetry and trace logging (#8/13)
 [2026-08-20T16:38:18.000Z] perf: reduce memory allocation in matrix computation (#9/13)
 [2026-08-20T17:30:08.000Z] perf: reduce memory allocation in matrix computation (#10/13)
+[2026-08-20T18:23:24.000Z] docs: clarify deployment environment variable requirements (#11/13)
