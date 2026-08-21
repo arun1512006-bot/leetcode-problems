@@ -686,3 +686,4 @@
 [2026-08-21T09:55:33.000Z] feat: add structured JSON log formatter (#1/12)
 [2026-08-21T10:51:40.000Z] feat: add structured JSON log formatter (#2/12)
 [2026-08-21T11:47:47.000Z] refactor: decouple configuration loader from runtime core (#3/12)
+[2026-08-21T12:37:37.000Z] refactor: decouple configuration loader from runtime core (#4/12)
