@@ -684,3 +684,4 @@
 [2026-08-20T19:15:43.000Z] docs: clarify deployment environment variable requirements (#12/13)
 [2026-08-20T20:03:06.000Z] chore: clean up deprecated helper functions (#13/13)
 [2026-08-21T09:55:33.000Z] feat: add structured JSON log formatter (#1/12)
+[2026-08-21T10:51:40.000Z] feat: add structured JSON log formatter (#2/12)
