@@ -705,3 +705,4 @@
 [2026-08-22T15:21:08.000Z] feat: optimize event bus telemetry and trace logging (#8/14)
 [2026-08-22T16:15:52.000Z] perf: debounce high-frequency state update dispatchers (#9/14)
 [2026-08-22T16:59:33.000Z] docs: clarify deployment environment variable requirements (#10/14)
+[2026-08-22T17:49:59.000Z] test: add unit coverage for edge-case parser states (#11/14)
