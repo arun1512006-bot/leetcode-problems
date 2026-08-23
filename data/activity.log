@@ -716,3 +716,4 @@
 [2026-08-23T13:00:19.000Z] feat: integrate automated health check probes (#5/14)
 [2026-08-23T13:45:00.000Z] refactor: decouple configuration loader from runtime core (#6/14)
 [2026-08-23T14:39:54.000Z] chore: bump minor dependency patches and lockfile (#7/14)
+[2026-08-23T15:21:37.000Z] docs: update API contract and endpoint specifications (#8/14)
