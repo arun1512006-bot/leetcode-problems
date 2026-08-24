@@ -724,3 +724,4 @@
 [2026-08-23T19:23:30.000Z] test: add unit coverage for edge-case parser states (#13/14)
 [2026-08-23T20:11:13.000Z] refactor: decouple configuration loader from runtime core (#14/14)
 [2026-08-24T09:56:51.000Z] test: expand integration suite for webhook deliveries (#1/12)
+[2026-08-24T10:52:16.000Z] fix: graceful fallback on upstream rate limiting (#2/12)
