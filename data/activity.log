@@ -736,3 +736,4 @@
 [2026-08-24T19:02:51.000Z] feat: optimize event bus telemetry and trace logging (#11/12)
 [2026-08-24T19:56:02.000Z] perf: reduce memory allocation in matrix computation (#12/12)
 [2026-08-25T10:02:00.000Z] fix: prevent race condition in async buffer queue (#1/11)
+[2026-08-25T11:00:07.000Z] fix: graceful fallback on upstream rate limiting (#2/11)
