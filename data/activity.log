@@ -757,3 +757,4 @@
 [2026-08-26T17:11:39.000Z] docs: update API contract and endpoint specifications (#9/12)
 [2026-08-26T18:06:57.000Z] fix: resolve timezone offset discrepancy in scheduler (#10/12)
 [2026-08-26T19:04:32.000Z] test: expand integration suite for webhook deliveries (#11/12)
+[2026-08-26T19:57:30.000Z] fix: graceful fallback on upstream rate limiting (#12/12)
