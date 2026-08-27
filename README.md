@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/arun1512006-bot/leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arun1512006-bot/leetcode-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/arun1512006-bot/leetcode-problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1927-sum-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arun1512006-bot/leetcode-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/arun1512006-bot/leetcode-problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Tree
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/arun1512006-bot/leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/arun1512006-bot/leetcode-problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -170,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0389-find-the-difference) |
+## Counting
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/arun1512006-bot/leetcode-problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/arun1512006-bot/leetcode-problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
