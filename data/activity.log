@@ -769,3 +769,4 @@
 [2026-08-27T16:40:39.000Z] fix: graceful fallback on upstream rate limiting (#9/13)
 [2026-08-27T17:28:56.000Z] chore: clean up deprecated helper functions (#10/13)
 [2026-08-27T18:24:42.000Z] feat: optimize event bus telemetry and trace logging (#11/13)
+[2026-08-27T19:13:23.000Z] feat: optimize event bus telemetry and trace logging (#12/13)
