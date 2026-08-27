@@ -766,3 +766,4 @@
 [2026-08-27T14:06:00.000Z] perf: index query key lookup table for O(1) retrieval (#6/13)
 [2026-08-27T14:57:44.000Z] perf: debounce high-frequency state update dispatchers (#7/13)
 [2026-08-27T15:44:54.000Z] fix: prevent race condition in async buffer queue (#8/13)
+[2026-08-27T16:40:39.000Z] fix: graceful fallback on upstream rate limiting (#9/13)
