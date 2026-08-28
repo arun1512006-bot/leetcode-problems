@@ -774,3 +774,4 @@
 [2026-08-28T10:07:15.000Z] docs: add visual sequence diagrams for authentication flow (#1/10)
 [2026-08-28T11:08:26.000Z] refactor: extract reusable validator utility methods (#2/10)
 [2026-08-28T12:17:28.000Z] refactor: extract reusable validator utility methods (#3/10)
+[2026-08-28T13:21:47.000Z] fix: graceful fallback on upstream rate limiting (#4/10)
