@@ -777,3 +777,4 @@
 [2026-08-28T13:21:47.000Z] fix: graceful fallback on upstream rate limiting (#4/10)
 [2026-08-28T14:27:05.000Z] chore: bump minor dependency patches and lockfile (#5/10)
 [2026-08-28T15:26:37.000Z] style: enforce consistent lint formatting across modules (#6/10)
+[2026-08-28T16:31:13.000Z] docs: clarify deployment environment variable requirements (#7/10)
