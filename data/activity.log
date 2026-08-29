@@ -785,3 +785,4 @@
 [2026-08-29T10:52:47.000Z] style: enforce consistent lint formatting across modules (#2/12)
 [2026-08-29T11:44:27.000Z] fix: handle null pointer check in payload serializer (#3/12)
 [2026-08-29T12:41:11.000Z] refactor: streamline data pipeline transformation logic (#4/12)
+[2026-08-29T13:33:54.000Z] chore: clean up deprecated helper functions (#5/12)
