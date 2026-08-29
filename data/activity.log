@@ -781,3 +781,4 @@
 [2026-08-28T17:36:38.000Z] perf: index query key lookup table for O(1) retrieval (#8/10)
 [2026-08-28T18:48:01.000Z] fix: graceful fallback on upstream rate limiting (#9/10)
 [2026-08-28T19:52:55.000Z] feat: implement adaptive caching layer for remote sync (#10/10)
+[2026-08-29T09:58:17.000Z] fix: graceful fallback on upstream rate limiting (#1/12)
