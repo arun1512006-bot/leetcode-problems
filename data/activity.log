@@ -796,3 +796,4 @@
 [2026-08-30T09:57:02.000Z] fix: prevent race condition in async buffer queue (#1/12)
 [2026-08-30T10:51:36.000Z] docs: update API contract and endpoint specifications (#2/12)
 [2026-08-30T11:44:51.000Z] chore: clean up deprecated helper functions (#3/12)
+[2026-08-30T12:39:46.000Z] fix: resolve timezone offset discrepancy in scheduler (#4/12)
