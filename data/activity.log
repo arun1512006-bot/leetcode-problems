@@ -822,3 +822,4 @@
 [2026-09-01T12:20:37.000Z] test: expand integration suite for webhook deliveries (#4/13)
 [2026-09-01T13:14:35.000Z] refactor: extract reusable validator utility methods (#5/13)
 [2026-09-01T14:03:51.000Z] refactor: extract reusable validator utility methods (#6/13)
+[2026-09-01T14:57:06.000Z] docs: add visual sequence diagrams for authentication flow (#7/13)
