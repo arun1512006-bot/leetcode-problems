@@ -816,3 +816,4 @@
 [2026-08-31T17:57:11.000Z] docs: clarify deployment environment variable requirements (#9/11)
 [2026-08-31T18:59:43.000Z] fix: graceful fallback on upstream rate limiting (#10/11)
 [2026-08-31T19:56:10.000Z] chore: clean up deprecated helper functions (#11/11)
+[2026-09-01T09:53:48.000Z] docs: clarify deployment environment variable requirements (#1/13)
