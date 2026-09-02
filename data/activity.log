@@ -831,3 +831,4 @@
 [2026-09-01T20:00:14.000Z] docs: clarify deployment environment variable requirements (#13/13)
 [2026-09-02T10:01:29.000Z] fix: handle null pointer check in payload serializer (#1/11)
 [2026-09-02T10:57:07.000Z] feat: implement adaptive caching layer for remote sync (#2/11)
+[2026-09-02T11:57:37.000Z] refactor: decouple configuration loader from runtime core (#3/11)
