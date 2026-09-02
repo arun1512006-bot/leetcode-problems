@@ -835,3 +835,4 @@
 [2026-09-02T12:56:32.000Z] fix: graceful fallback on upstream rate limiting (#4/11)
 [2026-09-02T14:01:27.000Z] refactor: extract reusable validator utility methods (#5/11)
 [2026-09-02T15:02:38.000Z] refactor: modularize repository sync orchestrator (#6/11)
+[2026-09-02T15:58:39.000Z] chore: clean up deprecated helper functions (#7/11)
