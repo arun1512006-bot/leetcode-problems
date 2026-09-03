@@ -850,3 +850,4 @@
 [2026-09-03T15:25:20.000Z] perf: index query key lookup table for O(1) retrieval (#8/14)
 [2026-09-03T16:09:51.000Z] test: expand integration suite for webhook deliveries (#9/14)
 [2026-09-03T17:02:26.000Z] refactor: decouple configuration loader from runtime core (#10/14)
+[2026-09-03T17:47:55.000Z] feat: add structured JSON log formatter (#11/14)
