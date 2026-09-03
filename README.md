@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0139-word-break) |
 | [0345-reverse-vowels-of-a-string](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0389-find-the-difference) |
+| [0434-number-of-segments-in-a-string](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0434-number-of-segments-in-a-string) |
 | [1927-sum-game](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/arun1512006-bot/leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
