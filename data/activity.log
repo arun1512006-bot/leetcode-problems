@@ -854,3 +854,4 @@
 [2026-09-03T18:34:56.000Z] perf: reduce memory allocation in matrix computation (#12/14)
 [2026-09-03T19:24:48.000Z] docs: clarify deployment environment variable requirements (#13/14)
 [2026-09-03T20:10:03.000Z] docs: clarify deployment environment variable requirements (#14/14)
+[2026-09-04T09:49:34.000Z] feat: add structured JSON log formatter (#1/13)
