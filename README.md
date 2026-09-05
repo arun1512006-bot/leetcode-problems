@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0441-arranging-coins) |
 | [1140-stone-game-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1510-stone-game-iv) |
 | [1927-sum-game](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1927-sum-game) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0441-arranging-coins](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0441-arranging-coins) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/arun1512006-bot/leetcode-problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
