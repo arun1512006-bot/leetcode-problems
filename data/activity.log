@@ -882,3 +882,4 @@
 [2026-09-06T10:45:39.000Z] chore: clean up deprecated helper functions (#2/13)
 [2026-09-06T11:32:53.000Z] docs: update API contract and endpoint specifications (#3/13)
 [2026-09-06T12:22:09.000Z] style: enforce consistent lint formatting across modules (#4/13)
+[2026-09-06T13:16:35.000Z] fix: graceful fallback on upstream rate limiting (#5/13)
