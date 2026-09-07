@@ -894,3 +894,4 @@
 [2026-09-07T09:53:42.000Z] refactor: modularize repository sync orchestrator (#1/12)
 [2026-09-07T10:52:27.000Z] refactor: modularize repository sync orchestrator (#2/12)
 [2026-09-07T11:46:09.000Z] fix: resolve timezone offset discrepancy in scheduler (#3/12)
+[2026-09-07T12:41:28.000Z] refactor: decouple configuration loader from runtime core (#4/12)
