@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0434-number-of-segments-in-a-string) |
+| [0940-distinct-subsequences-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/arun1512006-bot/leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0338-counting-bits) |
+| [0940-distinct-subsequences-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arun1512006-bot/leetcode-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
