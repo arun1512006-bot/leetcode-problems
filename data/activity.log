@@ -911,3 +911,4 @@
 [2026-09-08T15:02:39.000Z] test: add unit coverage for edge-case parser states (#6/11)
 [2026-09-08T15:56:43.000Z] perf: debounce high-frequency state update dispatchers (#7/11)
 [2026-09-08T16:56:31.000Z] fix: handle null pointer check in payload serializer (#8/11)
+[2026-09-08T17:59:05.000Z] docs: clarify deployment environment variable requirements (#9/11)
