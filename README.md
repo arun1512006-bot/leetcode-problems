@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0455-assign-cookies) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arun1512006-bot/leetcode-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/arun1512006-bot/leetcode-problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0455-assign-cookies) |
 | [1386-cinema-seat-allocation](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1927-sum-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arun1512006-bot/leetcode-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0455-assign-cookies) |
 | [1140-stone-game-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0455-assign-cookies) |
 ## Counting
 |  |
 | ------- |
@@ -207,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/arun1512006-bot/leetcode-problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/arun1512006-bot/leetcode-problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
