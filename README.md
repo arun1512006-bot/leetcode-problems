@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Array
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Backtracking
 |  |
@@ -230,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/arun1512006-bot/leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
