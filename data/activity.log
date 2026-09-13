@@ -960,3 +960,4 @@
 [2026-09-13T09:56:16.000Z] fix: graceful fallback on upstream rate limiting (#1/12)
 [2026-09-13T10:49:49.000Z] refactor: streamline data pipeline transformation logic (#2/12)
 [2026-09-13T11:44:20.000Z] docs: clarify deployment environment variable requirements (#3/12)
+[2026-09-13T12:39:57.000Z] test: expand integration suite for webhook deliveries (#4/12)
