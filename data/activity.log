@@ -966,3 +966,4 @@
 [2026-09-13T15:28:12.000Z] feat: add structured JSON log formatter (#7/12)
 [2026-09-13T16:22:06.000Z] chore: clean up deprecated helper functions (#8/12)
 [2026-09-13T17:17:54.000Z] docs: clarify deployment environment variable requirements (#9/12)
+[2026-09-13T18:12:31.000Z] fix: graceful fallback on upstream rate limiting (#10/12)
