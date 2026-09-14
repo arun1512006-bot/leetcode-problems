@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0495-teemo-attacking](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0500-keyboard-row) |
+| [0835-image-overlap](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -243,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
