@@ -987,3 +987,4 @@
 [2026-09-15T12:17:11.000Z] feat: add structured JSON log formatter (#3/10)
 [2026-09-15T13:17:15.000Z] refactor: extract reusable validator utility methods (#4/10)
 [2026-09-15T14:27:23.000Z] feat: integrate automated health check probes (#5/10)
+[2026-09-15T15:31:26.000Z] chore: clean up deprecated helper functions (#6/10)
