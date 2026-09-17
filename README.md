@@ -266,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0836-rectangle-overlap) |
+## Database
+|  |
+| ------- |
+| [0511-game-play-analysis-i](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
