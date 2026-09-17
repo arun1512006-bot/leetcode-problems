@@ -1006,3 +1006,4 @@
 [2026-09-17T09:48:22.000Z] test: add unit coverage for edge-case parser states (#1/13)
 [2026-09-17T10:44:47.000Z] feat: add structured JSON log formatter (#2/13)
 [2026-09-17T11:34:46.000Z] docs: clarify deployment environment variable requirements (#3/13)
+[2026-09-17T12:23:16.000Z] fix: graceful fallback on upstream rate limiting (#4/13)
