@@ -1018,3 +1018,4 @@
 [2026-09-17T20:04:36.000Z] feat: add structured JSON log formatter (#13/13)
 [2026-09-18T10:04:25.000Z] fix: graceful fallback on upstream rate limiting (#1/10)
 [2026-09-18T11:09:19.000Z] docs: update API contract and endpoint specifications (#2/10)
+[2026-09-18T12:14:46.000Z] fix: resolve timezone offset discrepancy in scheduler (#3/10)
