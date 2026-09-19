@@ -1038,3 +1038,4 @@
 [2026-09-19T17:00:48.000Z] fix: prevent race condition in async buffer queue (#10/14)
 [2026-09-19T17:49:56.000Z] docs: update API contract and endpoint specifications (#11/14)
 [2026-09-19T18:38:55.000Z] fix: graceful fallback on upstream rate limiting (#12/14)
+[2026-09-19T19:22:54.000Z] feat: add structured JSON log formatter (#13/14)
