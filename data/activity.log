@@ -1062,3 +1062,4 @@
 [2026-09-21T15:24:36.000Z] feat: add structured JSON log formatter (#8/14)
 [2026-09-21T16:12:06.000Z] fix: handle null pointer check in payload serializer (#9/14)
 [2026-09-21T16:59:35.000Z] fix: prevent race condition in async buffer queue (#10/14)
+[2026-09-21T17:47:20.000Z] perf: debounce high-frequency state update dispatchers (#11/14)
