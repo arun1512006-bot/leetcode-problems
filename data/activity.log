@@ -1093,3 +1093,4 @@
 [2026-09-24T12:20:49.000Z] fix: graceful fallback on upstream rate limiting (#4/13)
 [2026-09-24T13:14:12.000Z] test: expand integration suite for webhook deliveries (#5/13)
 [2026-09-24T14:07:21.000Z] docs: clarify deployment environment variable requirements (#6/13)
+[2026-09-24T14:57:31.000Z] docs: clarify deployment environment variable requirements (#7/13)
