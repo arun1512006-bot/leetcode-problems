@@ -1109,3 +1109,4 @@
 [2026-09-25T16:35:21.000Z] chore: bump minor dependency patches and lockfile (#7/10)
 [2026-09-25T17:42:22.000Z] perf: index query key lookup table for O(1) retrieval (#8/10)
 [2026-09-25T18:45:08.000Z] fix: prevent race condition in async buffer queue (#9/10)
+[2026-09-25T19:51:48.000Z] refactor: decouple configuration loader from runtime core (#10/10)
