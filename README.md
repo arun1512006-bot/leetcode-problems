@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Array
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Backtracking
 |  |
@@ -305,4 +308,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0563-binary-tree-tilt](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0563-binary-tree-tilt) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
