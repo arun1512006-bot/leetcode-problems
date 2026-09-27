@@ -1120,3 +1120,4 @@
 [2026-09-26T17:40:28.000Z] perf: reduce memory allocation in matrix computation (#8/10)
 [2026-09-26T18:42:09.000Z] test: add unit coverage for edge-case parser states (#9/10)
 [2026-09-26T19:49:05.000Z] fix: handle null pointer check in payload serializer (#10/10)
+[2026-09-27T09:58:30.000Z] fix: graceful fallback on upstream rate limiting (#1/12)
