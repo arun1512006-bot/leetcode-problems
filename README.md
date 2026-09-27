@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0500-keyboard-row) |
 | [0566-reshape-the-matrix](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0575-distribute-candies) |
 | [0835-image-overlap](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1386-cinema-seat-allocation) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0575-distribute-candies) |
 | [1096-brace-expansion-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
