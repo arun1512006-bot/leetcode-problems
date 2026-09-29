@@ -1153,3 +1153,4 @@
 [2026-09-29T16:32:07.000Z] feat: optimize event bus telemetry and trace logging (#7/10)
 [2026-09-29T17:39:09.000Z] style: enforce consistent lint formatting across modules (#8/10)
 [2026-09-29T18:48:04.000Z] fix: prevent race condition in async buffer queue (#9/10)
+[2026-09-29T19:52:29.000Z] chore: clean up deprecated helper functions (#10/10)
