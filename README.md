@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0940-distinct-subsequences-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1927-sum-game) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## DP on Trees
 |  |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
