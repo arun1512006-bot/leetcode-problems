@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Backtracking
 |  |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
