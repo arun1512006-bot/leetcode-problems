@@ -1160,3 +1160,4 @@
 [2026-09-30T12:25:33.000Z] test: expand integration suite for webhook deliveries (#4/13)
 [2026-09-30T13:13:42.000Z] refactor: streamline data pipeline transformation logic (#5/13)
 [2026-09-30T14:03:43.000Z] fix: prevent race condition in async buffer queue (#6/13)
+[2026-09-30T14:55:10.000Z] fix: graceful fallback on upstream rate limiting (#7/13)
