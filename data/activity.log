@@ -1175,3 +1175,4 @@
 [2026-10-01T13:48:18.000Z] fix: handle null pointer check in payload serializer (#6/14)
 [2026-10-01T14:32:39.000Z] chore: bump minor dependency patches and lockfile (#7/14)
 [2026-10-01T15:23:00.000Z] feat: implement adaptive caching layer for remote sync (#8/14)
+[2026-10-01T16:10:33.000Z] chore: clean up deprecated helper functions (#9/14)
