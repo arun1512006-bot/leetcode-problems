@@ -1188,3 +1188,4 @@
 [2026-10-02T12:56:18.000Z] fix: resolve timezone offset discrepancy in scheduler (#5/14)
 [2026-10-02T13:46:55.000Z] test: expand integration suite for webhook deliveries (#6/14)
 [2026-10-02T14:32:05.000Z] test: add unit coverage for edge-case parser states (#7/14)
+[2026-10-02T15:20:21.000Z] fix: handle null pointer check in payload serializer (#8/14)
