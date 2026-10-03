@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0139-word-break) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0139-word-break) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1096-brace-expansion-ii) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
