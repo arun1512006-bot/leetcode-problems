@@ -1206,3 +1206,4 @@
 [2026-10-03T17:13:27.000Z] fix: graceful fallback on upstream rate limiting (#9/12)
 [2026-10-03T18:07:49.000Z] chore: clean up deprecated helper functions (#10/12)
 [2026-10-03T19:02:00.000Z] fix: graceful fallback on upstream rate limiting (#11/12)
+[2026-10-03T20:00:13.000Z] chore: clean up deprecated helper functions (#12/12)
