@@ -1204,3 +1204,4 @@
 [2026-10-03T15:28:45.000Z] refactor: modularize repository sync orchestrator (#7/12)
 [2026-10-03T16:23:04.000Z] chore: clean up deprecated helper functions (#8/12)
 [2026-10-03T17:13:27.000Z] fix: graceful fallback on upstream rate limiting (#9/12)
+[2026-10-03T18:07:49.000Z] chore: clean up deprecated helper functions (#10/12)
