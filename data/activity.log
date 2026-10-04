@@ -1209,3 +1209,4 @@
 [2026-10-03T20:00:13.000Z] chore: clean up deprecated helper functions (#12/12)
 [2026-10-04T10:01:33.000Z] fix: handle null pointer check in payload serializer (#1/10)
 [2026-10-04T11:11:36.000Z] feat: add structured JSON log formatter (#2/10)
+[2026-10-04T12:17:01.000Z] fix: resolve timezone offset discrepancy in scheduler (#3/10)
