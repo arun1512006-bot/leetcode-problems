@@ -1212,3 +1212,4 @@
 [2026-10-04T12:17:01.000Z] fix: resolve timezone offset discrepancy in scheduler (#3/10)
 [2026-10-04T13:23:16.000Z] docs: clarify deployment environment variable requirements (#4/10)
 [2026-10-04T14:28:50.000Z] feat: add structured JSON log formatter (#5/10)
+[2026-10-04T15:28:35.000Z] fix: graceful fallback on upstream rate limiting (#6/10)
