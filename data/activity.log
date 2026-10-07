@@ -1250,3 +1250,4 @@
 [2026-10-07T14:09:34.000Z] feat: implement adaptive caching layer for remote sync (#6/13)
 [2026-10-07T14:56:32.000Z] chore: bump minor dependency patches and lockfile (#7/13)
 [2026-10-07T15:51:49.000Z] chore: clean up deprecated helper functions (#8/13)
+[2026-10-07T16:35:20.000Z] perf: debounce high-frequency state update dispatchers (#9/13)
