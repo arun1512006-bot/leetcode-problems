@@ -1252,3 +1252,4 @@
 [2026-10-07T15:51:49.000Z] chore: clean up deprecated helper functions (#8/13)
 [2026-10-07T16:35:20.000Z] perf: debounce high-frequency state update dispatchers (#9/13)
 [2026-10-07T17:29:39.000Z] fix: graceful fallback on upstream rate limiting (#10/13)
+[2026-10-07T18:20:42.000Z] docs: clarify deployment environment variable requirements (#11/13)
