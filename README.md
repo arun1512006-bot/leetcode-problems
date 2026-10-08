@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0575-distribute-candies) |
 | [0598-range-addition-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0598-range-addition-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0835-image-overlap](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1386-cinema-seat-allocation) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/arun1512006-bot/leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
