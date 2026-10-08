@@ -1259,3 +1259,4 @@
 [2026-10-08T10:57:05.000Z] chore: bump minor dependency patches and lockfile (#2/11)
 [2026-10-08T11:58:05.000Z] test: expand integration suite for webhook deliveries (#3/11)
 [2026-10-08T13:00:33.000Z] docs: clarify deployment environment variable requirements (#4/11)
+[2026-10-08T13:58:47.000Z] feat: optimize event bus telemetry and trace logging (#5/11)
