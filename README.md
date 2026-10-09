@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0575-distribute-candies) |
 | [0598-range-addition-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0598-range-addition-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0835-image-overlap](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1386-cinema-seat-allocation) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0401-binary-watch) |
+| [0645-set-mismatch](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/arun1512006-bot/leetcode-problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Hash Table
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0575-distribute-candies) |
+| [0645-set-mismatch](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1096-brace-expansion-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/arun1512006-bot/leetcode-problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Counting
