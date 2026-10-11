@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0598-range-addition-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0645-set-mismatch) |
+| [0661-image-smoother](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0661-image-smoother) |
 | [0835-image-overlap](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1386-cinema-seat-allocation) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0566-reshape-the-matrix) |
+| [0661-image-smoother](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0661-image-smoother) |
 | [0835-image-overlap](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Geometry
