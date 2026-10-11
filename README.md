@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Array
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Backtracking
 |  |
