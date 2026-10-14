@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0661-image-smoother) |
+| [0697-degree-of-an-array](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0697-degree-of-an-array) |
 | [0835-image-overlap](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1386-cinema-seat-allocation) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0645-set-mismatch) |
+| [0697-degree-of-an-array](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0697-degree-of-an-array) |
 | [1096-brace-expansion-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
