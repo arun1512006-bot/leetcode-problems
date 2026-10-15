@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0661-image-smoother) |
 | [0697-degree-of-an-array](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0705-design-hashset) |
 | [0835-image-overlap](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1386-cinema-seat-allocation) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0705-design-hashset) |
 | [1096-brace-expansion-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0705-design-hashset) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0705-design-hashset) |
 ## Data Stream
 |  |
 | ------- |
@@ -424,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
