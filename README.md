@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0661-image-smoother) |
 | [0697-degree-of-an-array](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0697-degree-of-an-array) |
+| [0704-binary-search](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1386-cinema-seat-allocation) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0441-arranging-coins) |
+| [0704-binary-search](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0704-binary-search) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/arun1512006-bot/leetcode-problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
