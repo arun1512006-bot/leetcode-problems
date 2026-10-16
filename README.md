@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/arun1512006-bot/leetcode-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/arun1512006-bot/leetcode-problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/arun1512006-bot/leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/arun1512006-bot/leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/3525-find-x-value-of-array-ii) |
 ## Ordered Set
 |  |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Linked List
 |  |
 | ------- |
