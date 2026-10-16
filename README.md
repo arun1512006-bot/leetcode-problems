@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0705-design-hashset) |
+| [0812-largest-triangle-area](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0812-largest-triangle-area) |
 | [0835-image-overlap](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1386-cinema-seat-allocation) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0598-range-addition-ii) |
+| [0812-largest-triangle-area](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1510-stone-game-iv) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0836-rectangle-overlap) |
 ## Database
 |  |
@@ -436,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0705-design-hashset) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
