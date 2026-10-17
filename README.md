@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0696-count-binary-substrings) |
+| [0819-most-common-word](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0819-most-common-word) |
 | [0856-score-of-parentheses](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0705-design-hashset) |
 | [0812-largest-triangle-area](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0812-largest-triangle-area) |
+| [0819-most-common-word](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0819-most-common-word) |
 | [0835-image-overlap](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1386-cinema-seat-allocation) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0705-design-hashset) |
+| [0819-most-common-word](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0819-most-common-word) |
 | [1096-brace-expansion-ii](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arun1512006-bot/leetcode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0819-most-common-word](https://github.com/arun1512006-bot/leetcode-problems/tree/master/0819-most-common-word) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/arun1512006-bot/leetcode-problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
